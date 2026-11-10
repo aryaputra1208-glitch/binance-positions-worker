@@ -1,0 +1,4 @@
+{
+  "regions": ["hnd1"],
+  "rewrites": [{ "source": "/", "destination": "/api/positions" }]
+}
